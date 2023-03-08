@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.11">
+    <CLASSES>
+      <root url="jar://C:/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../git projects/new coir industry/coir-management-system/src/lib/jfoenix-8.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
